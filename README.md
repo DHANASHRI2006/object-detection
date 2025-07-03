@@ -1,4 +1,4 @@
-**👁️‍🗨️ Object Detection Assistant for Blind Persons **
+**👁️‍🗨️ Object Detection Assistant for Blind Persons**
 
 This project is an AI-powered assistive system designed to help **visually impaired individuals** navigate their environment by detecting nearby objects and announcing them aloud. The system also provides **real-time date, time, and location** details using speech synthesis, making it a smart companion for the blind.
 
@@ -20,7 +20,7 @@ This project is an AI-powered assistive system designed to help **visually impai
 - **datetime module** – For current date and time
 
 
-** 🛠️ How It Works **
+**🛠️ How It Works**
 
 1. The system starts when the user gives a voice command like **"start detection"**.
 2. The camera captures real-time video, and the system detects and recognizes objects in front of the user.
@@ -29,7 +29,10 @@ This project is an AI-powered assistive system designed to help **visually impai
 5. On saying **"where am I"**, the system announces the approximate location (city, area).
 6. Detection can be stopped using the voice command **"stop detection"**.
 
-**🚀 Installation**
+**💡 Future Improvements**
 
-git clone (githubpath)
-cd object-detection-blind-assist
+Add obstacle distance estimation.
+
+Support for multiple languages.
+
+Integration with wearable hardware (smart glasses or Raspberry Pi).
